@@ -1,10 +1,9 @@
-<table>
-  <tr>
-    <td align="left"><h1>Hey There 👋 What's up?</h1></td>
-    <td align="right"><img height="50" src="https://i.imgflip.com/65efzo.gif" /></td>
-  </tr>
-</table>
-
+<p align="left">
+  <h1>Hey There 👋 What's up?</h1>
+  <span style="float:right;">
+    <img height="80" src="https://i.imgflip.com/65efzo.gif" />
+  </span>
+</p>
 
 
 <!--
