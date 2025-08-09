@@ -34,6 +34,12 @@ i'm just someon who has an interest in the IT field and want to develop in this 
 
 </div>
 
+###
+
+###
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31erojvio4u5lxk4khis7kcxlnim)
 
 
 ###
@@ -110,9 +116,3 @@ i'm just someon who has an interest in the IT field and want to develop in this 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyaa-V/Kyaa-V/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kyaa-V/Kyaa-V/output/pacman-contribution-graph.svg">
 </picture>
-
-
-###
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31erojvio4u5lxk4khis7kcxlnim)
