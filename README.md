@@ -113,7 +113,9 @@ i'm just someon who has an interest in the IT field and want to develop in this 
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31erojvio4u5lxk4khis7kcxlnim)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31erojvio4u5lxk4khis7kcxlnim&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31erojvio4u5lxk4khis7kcxlnim&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31erojvio4u5lxk4khis7kcxlnim&unique={true|1|on|yes})
 
+###
