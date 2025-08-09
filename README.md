@@ -11,10 +11,7 @@
 
 # 💫 About Me:
 <p>I'M Just Someon Who Has an Interest in The IT field and Want to Develop in This Field as a Hobby</p>
-<<<<<<< HEAD
-=======
 
->>>>>>> eefad127290f90818909dd36407d59685128b415
 
 ## 🌐 Socials:
 
