@@ -111,11 +111,8 @@ i'm just someon who has an interest in the IT field and want to develop in this 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kyaa-V/Kyaa-V/output/pacman-contribution-graph.svg">
 </picture>
 
+
 ###
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31erojvio4u5lxk4khis7kcxlnim)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31erojvio4u5lxk4khis7kcxlnim&count={count})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31erojvio4u5lxk4khis7kcxlnim&width={width})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31erojvio4u5lxk4khis7kcxlnim&unique={true|1|on|yes})
-
-###
