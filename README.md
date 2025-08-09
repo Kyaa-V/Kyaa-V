@@ -1,9 +1,4 @@
-<p align="left">
-  <h1>Hey There 👋 What's up?</h1>
-  <span style="float:right;">
-    <img height="80" src="https://i.imgflip.com/65efzo.gif" />
-  </span>
-</p>
+<h1>Hey There 👋 What's up?</h1>
 
 
 <!--
@@ -110,8 +105,11 @@ i'm just someon who has an interest in the IT field and want to develop in this 
 
 ###
 
-
-<img src="https://raw.githubusercontent.com/Kyaa-V/Kyaa-V/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyaa-V/Kyaa-V/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyaa-V/Kyaa-V/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kyaa-V/Kyaa-V/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
