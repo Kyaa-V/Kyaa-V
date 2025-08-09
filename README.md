@@ -1,22 +1,13 @@
-<h1>Hey There 👋 What's up?</h1>
+###
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFF&lines=Hey+There!+👋+What's+up?;Welcome+to+my+GitHub)
 
-<!--
-**Kyaa-V/Kyaa-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
  <p align="left">My name is RIZQI and I'm a FULLSTACK DEV WEB from INDONESIA</p>
 
+
+### 😂 Random Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 # 💫 About Me:
 i'm just someon who has an interest in the IT field and want to develop in this field as a hobby
