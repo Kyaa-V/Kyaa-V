@@ -10,8 +10,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 # 💫 About Me:
-i'm just someon who has an interest in the IT field and want to develop in this field as a hobby
-
+<p>I'M Just Someon Who Has an Interest in The IT field and Want to Develop in This Field as a Hobby</p>
 
 ## 🌐 Socials:
 
